@@ -1,0 +1,113 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+}
+.header__logo {
+  width: 254.84px;
+  height: 68.94px;
+  margin: 34px 0;
+}
+.header__title {
+  font-family: "Inter";
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 100px;
+  text-align: center;
+  color: #ffffff;
+  max-width: 720px;
+  max-height: 200px;
+  margin: 91.06px 0 32px 0;
+}
+.header__subtitle {
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 36px;
+  text-align: center;
+  color: #ffffff;
+  max-width: 720px;
+  max-height: 72px;
+  margin: 0 0 64px 0;
+}
+.header__image {
+  width: 984px;
+  height: 615px;
+}
+@media screen and (max-width: 320px) {
+  .header {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+  }
+  .header__logo {
+    width: 254.84px;
+    height: 68.94px;
+    margin: 34px 0;
+  }
+  .header__title {
+    font-family: "Inter";
+    font-weight: 900;
+    font-size: 96px;
+    line-height: 100px;
+    text-align: center;
+    color: #ffffff;
+    max-width: 720px;
+    max-height: 200px;
+    margin: 91.06px 0 32px 0;
+  }
+  .header__subtitle {
+    font-family: "Inter";
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+    color: #ffffff;
+    max-width: 720px;
+    max-height: 72px;
+    margin: 0 0 64px 0;
+  }
+  .header__image {
+    width: 984px;
+    height: 615px;
+  }
+}
+.header {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+}
+.header__logo {
+  width: 254.84px;
+  height: 68.94px;
+  margin: 34px 0;
+}
+.header__title {
+  font-family: "Inter";
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 100px;
+  text-align: center;
+  color: #ffffff;
+  max-width: 720px;
+  max-height: 200px;
+  margin: 91.06px 0 32px 0;
+}
+.header__subtitle {
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 36px;
+  text-align: center;
+  color: #ffffff;
+  max-width: 720px;
+  max-height: 72px;
+  margin: 0 0 64px 0;
+}
+.header__image {
+  width: 984px;
+  height: 615px;
+}
